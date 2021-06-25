@@ -1,4 +1,4 @@
-# ticketmnt for nipa cloud
+# ticket management for nipa cloud assignment
 
 format body for all api - x-www-form-urlencoded
 
