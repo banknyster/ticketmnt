@@ -24,3 +24,4 @@ note:
 1. ไม่มีการ handle case html error code นอกจาก 400
 2. database in localhost
 ![image](https://user-images.githubusercontent.com/55575850/123313026-40237700-d553-11eb-8fa2-b7bbb14befa8.png)
+3. api update ไม่ได้ check status, แล้วแต่อยากให้ handle จากฝั่ง front หรือ back
